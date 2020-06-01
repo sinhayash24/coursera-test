@@ -17,13 +17,15 @@
 			font-size:40px;
 		}
 		section{
-			border:2px;
+			border:2px solid-gray;
 			background-color:#ccccff;
 			margin:10px;
 
 		}
 		section>h2{
 			background-color:orange;
+			border-left:solid-gray;
+			border-bottom:solid-gray
 			padding:5px;
 			width:150px;
 			text-align:center;
