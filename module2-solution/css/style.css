@@ -24,8 +24,7 @@
 		}
 		section>h2{
 			background-color:orange;
-			border-left:solid-gray;
-			border-bottom:solid-gray
+			border: Solid gray;
 			padding:5px;
 			width:150px;
 			text-align:center;
@@ -52,6 +51,7 @@
 			color:black;
 			font-family:serif;
 			font-size:20px;
+			border:solid gray;
 
 		}
 
