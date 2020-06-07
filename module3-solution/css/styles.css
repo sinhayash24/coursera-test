@@ -121,7 +121,7 @@ body {
   }
   .navbar-brand h1 { /* Restaurant name */
     padding-top: 10px;
-    font-size: 5vw; /* 1vw = 1% of viewport width */
+    font-size: 10vw; /* 1vw = 1% of viewport width */
     clear: right;
   }
   #collapsable-nav a { /* Collapsed nav menu text */
